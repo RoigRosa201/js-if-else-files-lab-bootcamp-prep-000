@@ -1,3 +1,2 @@
 console.log(Susan)
-var index = require("./index.js")
-console.log(index.Susan)
+console.log(index.name)
